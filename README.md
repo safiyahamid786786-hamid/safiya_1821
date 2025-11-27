@@ -97,9 +97,9 @@ This lightweight, beginner-friendly project demonstrates the core concepts of **
 screenshots 
 <img width="610" height="496" alt="Screenshot 2025-11-27 202010" src="https://github.com/user-attachments/assets/e4d59798-62ce-4f03-a840-21a0b7c2a284" />
 <img width="835" height="360" alt="Screenshot 2025-11-27 202021" src="https://github.com/user-attachments/assets/cb15f3f2-ac0f-46ba-902f-a72600f526e7" />
-<img width="604" height="620" alt="Screenshot 2025-11-27 202052" src="https://github.com/user-attachments/assets/41c24687-6a01-4255-9a33-b330ea661a84" />
-<img width="464" height="397" alt="Screenshot 2025-11-27 202039" src="https://github.com/user-attachments/assets/e030d986-bb52-41a9-93ee-b6b4812d7568" />
 <img width="530" height="457" alt="Screenshot 2025-11-27 202030" src="https://github.com/user-attachments/assets/76375bf4-e198-4bed-9471-316bba71ea2d" />
+<img width="464" height="397" alt="Screenshot 2025-11-27 202039" src="https://github.com/user-attachments/assets/e030d986-bb52-41a9-93ee-b6b4812d7568" />
+<img width="604" height="620" alt="Screenshot 2025-11-27 202052" src="https://github.com/user-attachments/assets/41c24687-6a01-4255-9a33-b330ea661a84" />
 
 
 
